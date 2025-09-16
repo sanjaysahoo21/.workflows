@@ -26,3 +26,5 @@ jobs:
         git add dummy.txt
         git commit -m "Daily automated commit $(date)" || echo "No changes to commit"
         git push
+        Add daily commit workflow
+
